@@ -4,33 +4,27 @@ namespace App\Controller;
 
 class TugasAkhirController
 {
-    public function daftarkanTA()
-    {
-        # code...
+    public function daftarkanTA(){
+        
     }
 
-    public function ubahTA()
-    {
-        # code...
+    public function ubahTA(){
+        
     }
 
-    public function validasiPendaftaran()
-    {
-        # code...
+    public function validasiPendaftaran(){
+        
     }
 
-    public function inputNilaiSempro()
-    {
-        # code...
+    public function inputNilaiSempro(){
+        
     }
 
-    public function inputNilaiSemhas()
-    {
-        # code...
+    public function inputNilaiSemhas(){
+        
     }
 
-    public function inputNilaiSidang()
-    {
-        # code...
+    public function inputNilaiSidang(){
+       
     }
 } 
